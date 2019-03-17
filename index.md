@@ -1,6 +1,7 @@
 ## Sachin
 
 #Computer Vision enthusiast| Full-stack Developer
-Linkedin: https://www.linkedin.com/in/sachin-jha/
-Insta: https://www.instagram.com/mental.ape/
+#Contact 
+<a href="https://www.linkedin.com/in/sachin-jha/">Linkedin</a>
+<a href="https://www.instagram.com/mental.ape/">Instagram</a>
 
