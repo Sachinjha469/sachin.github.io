@@ -5,11 +5,11 @@
     <link rel="stylesheet" href="/css/main.css">
   </head>
 <body style="background-color: #595959;">
-<p><b>Computer Vision enthusiast| Full-stack Developer</b></p>
+<p><b> Software Developer | Computer Vision enthusiast</b></p>
 <h1 style="color:#ff0000;"><b>Contact</b></h1> 
 <p> | <a href="mailto:jhasachin213@gmail.com">Mail me!!</a>|
 <a href="https://www.linkedin.com/in/sachin-jha/">Linkedin</a> |
-<a href="https://www.instagram.com/mental.ape/">Instagram</a> |
-<a href="https://twitter.com/jsachin45">Tweet me!</a> | </p>
+<a href="https://www.instagram.com/jsachin45/">Instagram</a> |
+<a href="https://www.facebook.com/jsachin45">Facebook</a> | </p>
 </body>
 </html>
