@@ -9,7 +9,7 @@
 <h1 style="color:#ff0000;"><b>Contact</b></h1> 
 <p> | <a href="mailto:jhasachin213@gmail.com">Mail me!!</a>|
 <a href="https://www.linkedin.com/in/sachin-jha/">Linkedin</a> |
-<a href="https://www.instagram.com/jsachin45/">Instagram</a> |
-<a href="https://www.facebook.com/jsachin45">Facebook</a> | </p>
+<a href="https://www.instagram.com/sachin.jhaaa/">Instagram</a> |
+<a href="https://www.facebook.com/sachin.jhaaa">Facebook</a> | </p>
 </body>
 </html>
